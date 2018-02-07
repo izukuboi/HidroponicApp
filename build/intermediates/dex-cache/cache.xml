@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_945fb72a789c5724083b954b93f6848938cfcf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_0ed97c191350dad38f319b64f684baba53da5d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_05af0e326d1974e4bac58a2e35550e3b18c765d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_35d9377b20d23b5811f7a0f17133324eab3413fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_56d9238e2681a7cfbd4624f11390c7b2d5d4399f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_dfd120a17bc00d17e2c24c9546570ccbf5d9cfc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_40907c2079aef76c1aac6a653b03622210518ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_dd8be5abd443e749bcf61a47279d27fa6c1d8386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_085f0e7c19780b410416d545b38a68b671a15879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_d6fc302baf01d5f7f8cbc62bb465d82d4d00974f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_10e2a7361e4495efaf069931c03143ea36c294be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_0484e3e6e514218403519af95509a5974674aec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_a799b4a4d5b70b65f6ea5b65e00ed798f8f5d8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_3d49298f7089b619abfab0970fb3a8a0288408f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9141e4c81cf10125bc682c4f393896f4f6f998d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_1dd9b2b7d6138e3c0db9109f8b89d006fea838ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_3de209fc58fc2fe26df2fb6de53d3197923ade2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\HidroponicApp\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_c9a55c2bff6da3c5f4a2ee963b6524da1ccd64cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\AndroidProjects\HidroponicApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5548ccada9aa534b99e5bae3d17100e81aae0ecf.jar" />
+    </item>
+
+</items>

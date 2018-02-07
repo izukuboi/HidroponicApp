@@ -43,7 +43,7 @@ public class UserAreaActivity extends AppCompatActivity {
         final TextView tvPh = (TextView) findViewById(R.id.tvPh);
 
         final TextView tvTemp = (TextView) findViewById(R.id.tvTemp);
-        final TextView tvHumedad = (TextView) findViewById(R.id.tvHumedad);
+        //final TextView tvHumedad = (TextView) findViewById(R.id.tvHumedad);
 
         bRefresh.setOnClickListener(new View.OnClickListener() {
             @Override
